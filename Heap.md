@@ -15,3 +15,6 @@
 		
 		![Heap Types](1_1_min_max_heap_diagram_new.png)
 		
+# Where to use
+ Heap is useful where we need to find the maximum/minimum value as it givesa the O(1) time complexity to find it.
+		

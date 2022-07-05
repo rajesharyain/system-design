@@ -13,4 +13,5 @@
 	2. # min Heap:
 		The value in the root Node or in the parent node of each sub tree should be equals or lesser then its children value.
 		
+		![Heap Types](1_1_min_max_heap_diagram_new.png)
 		
